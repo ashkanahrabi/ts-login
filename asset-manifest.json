@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ts-login/static/css/main.4de0fa12.css",
+    "main.js": "/ts-login/static/js/main.433e9f3a.js",
+    "index.html": "/ts-login/index.html",
+    "main.4de0fa12.css.map": "/ts-login/static/css/main.4de0fa12.css.map",
+    "main.433e9f3a.js.map": "/ts-login/static/js/main.433e9f3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de0fa12.css",
+    "static/js/main.433e9f3a.js"
+  ]
+}
